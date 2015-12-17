@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="appHeadingText">Baali Nanodegree Apps</string>
+    <string name="btnSpotifyText">SPOTIFY STREAMER</string>
+    <string name="btnScoresText">SCORES APP</string>
+    <string name="btnLibraryText">LIBRARY APP</string>
+    <string name="btnBiggerText">BUILD IT BIGGER</string>
+    <string name="btnBaconText">BACON READER</string>
+    <string name="btnMyApp">CAPSTONE: MY APP</string>
+</resources>
